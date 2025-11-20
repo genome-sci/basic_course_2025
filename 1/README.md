@@ -10,7 +10,7 @@
 - スライド資料 [スライド_遺伝研スパコン概要.pdf](https://github.com/genome-sci/basic_course_2025/blob/main/1/スライド_遺伝研スパコン概要.pdf)
 
 
-- ハンズオン資料 [遺伝研スパコンへの接続・Linux基本操作.pdf](https://github.com/genome-sci/basic_course_2025/blob/main/1/遺伝研スパコンへの接続・Linux基本操作.pdf)   
+- ハンズオン資料 [遺伝研スパコンへの接続・Linux基本操作.pdf](https://github.com/genome-sci/basic_course_2025/blob/main/1/遺伝研スパコンへの接続・Linux基本操作.pdf)   
 この資料のHTML版はこちらの [URL](https://www.notion.so/Linux-2025-2b0931c1237680cf817ffdc0fc70a721) からも閲覧できます。PDFではなくブラウザで資料を見たい方はこちらをご利用ください。
 
 
