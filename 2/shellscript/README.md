@@ -45,6 +45,7 @@ date
 2. TeraTerm or ターミナル等を用いてsshで遺伝研スパコンにログイン
 
 `ssh ユーザーアカウント名@gw.ddbj.nig.ac.jp`
+
 `ssh a001`
 
 その後、下記のコマンドを実行  
