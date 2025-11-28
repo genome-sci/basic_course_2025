@@ -5,9 +5,9 @@
 
 ## スケジュール(予定)
 12:40～12:45　講習会説明<br>
-12:45～14:10　[1. 遺伝研スパコンの利用方法、UNIX基本コマンド](https://github.com/genome-sci/basic_course_2025/tree/main/1)（担当：遺伝研・谷澤靖洋）<br>
-14:10～14:20　休憩<br>
-14:20～15:30　[2. シェルスクリプト＆バッチジョブ](https://github.com/genome-sci/basic_course_2025/tree/main/2)（担当：遺伝研・森宙史）<br>
+12:45～14:15　[1. 遺伝研スパコンの利用方法、UNIX基本コマンド](https://github.com/genome-sci/basic_course_2025/tree/main/1)（担当：遺伝研・谷澤靖洋）<br>
+14:15～14:25　休憩<br>
+14:25～15:30　[2. シェルスクリプト＆バッチジョブ](https://github.com/genome-sci/basic_course_2025/tree/main/2)（担当：遺伝研・森宙史）<br>
 15:30～15:35　休憩<br>
 15:35～16:30　[3. 解析環境の構築](https://github.com/genome-sci/basic_course_2025/tree/main/3)（担当：遺伝研・坂本美佳）<br>
 16:30～16:40　休憩<br>
